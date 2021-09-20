@@ -1,4 +1,3 @@
-
 <?php
 $score = $_GET['data1'];
 
